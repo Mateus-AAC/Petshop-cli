@@ -14,15 +14,6 @@ As instruções para o seu desenvolvimento estão descritos no roadmap.todo
 ## Fazendo Rodar
 Para fazer o projeto funcionar localmente é necessário realizar os seguintes passos:
 
-- Clone o projeto
-    ```shell
-    git clone https://github.com/sergiomoura/petshop-cli.git
-    ```
-
-- Entre na pasta do projeto
-    ```shell
-    cd petshop-cli.git
-    ```
 - Execute o npm install para instalação das dependências
     ```shell
     npm install
